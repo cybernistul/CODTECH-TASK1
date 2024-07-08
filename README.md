@@ -1,8 +1,13 @@
 **Name:** Nistul Premod
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT6WDS449
+
 **Domain:** CYBER SECURITY&ETHICAL HACKING
+
 **Duration:** June to July 2024
+
 **Mentor:** SRAVANI GOUNI
 
 ## Overview of the Project
