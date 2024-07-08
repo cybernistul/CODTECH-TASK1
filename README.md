@@ -38,10 +38,9 @@ feedback on password strength.
 
 
 ### Technologies Used
-- **Python**: The primary programming language for data analysis.
-pandas: Used for data manipulation and analysis.
-matplotlib: Employed for creating static, animated, and interactive visualizations.
-seaborn: Utilized for making statistical graphics that are informative and attractive.
+- **Python**: The main programming language used.
+- **Tkinter**: A built-in Python library for creating graphical user interfaces (GUIs).
+- **PicturesBase64**: A module presumably containing base64 encoded images used in the application
 
 ### Key Insights
 Population Distributions: Histograms to show how populations have been distributed over time.
